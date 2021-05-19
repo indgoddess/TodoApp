@@ -2,7 +2,7 @@
 
 Hosted on - https://todo-app-cp-4e880.web.app/
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/indgoddess/TodoApp/blob/master/todoapp01.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
